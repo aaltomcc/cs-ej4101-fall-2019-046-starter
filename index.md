@@ -9,7 +9,7 @@ of Tampere.
 
 **My Diary** 
 
-[Diary](https://github.com/aaltomcc/cs-ej4101-fall-2019-046-starter/diary-046.md)
+[Diary](diary-046.md)
 
 
 **Photo**
