@@ -1,10 +1,9 @@
 ### This course
 
-I took this course to get an introduction to the DevOps world. I did have some knowledge, but I think knowing more will
-help me to get a job.
+I took this course to get an introduction to the DevOps world. I did have some knowledge, but I think knowing more will help me to get a job.  I have been unemployed almost five years now. My earlier work career was basically C/C++ programming and those kind of jobs are not so common anymore in Finland. Finding a job has been really difficult. Usually my work experience is appreciated in the job interviews, but my general knowledge about latest software tools and methods feels outdated. So, to learn something totally new and to update my skills, I decided to apply to this Piece of Work program by TE-palvelut and University of Tampere. I was lucky and got chosen. When I was browsing the available courses of FiTech, I noticed this course. I have had couple of courses in using some DevOps tools, like Docker and Vagrant. However, I didn’t have so much knowledge about the philosophy of DevOps. That’s why I choose this course and I expected to learn why DevOps is so popular nowadays.
 
 ### Learned
 
-So far I have learned mostly about GIT. I have also watched some DevOps introduction videos.
+I took this course to get an introduction to the DevOps world. I did have some knowledge, but I think knowing more will help me to get a job.  I have been unemployed almost five years now. My earlier work career was basically C/C++ programming and those kind of jobs are not so common anymore in Finland. Finding a job has been really difficult. Usually my work experience is appreciated in the job interviews, but my general knowledge about latest software tools and methods feels outdated. So, to learn something totally new and to update my skills, I decided to apply to this Piece of Work program by TE-palvelut and University of Tampere. I was lucky and got chosen. When I was browsing the available courses of FiTech, I noticed this course. I have had couple of courses in using some DevOps tools, like Docker and Vagrant. However, I didn’t have so much knowledge about the philosophy of DevOps. That’s why I choose this course and I expected to learn why DevOps is so popular nowadays.
 
-**Updated:** Fri 29th Nov, 15:15.
+**Updated:** Wed 18th Nov.
